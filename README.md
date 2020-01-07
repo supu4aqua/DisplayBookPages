@@ -1,2 +1,0 @@
-# DisplayBookPages
-Created with CodeSandbox
